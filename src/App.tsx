@@ -34,6 +34,13 @@ function App() {
       issuer: "NXTWAVE",
       date: "2023",
       image: "/c4.png"
+    },
+    {
+      id: 5,
+      title: "Introduction to MongoDB",
+      issuer: "MongoDB",
+      date: "2025",
+      image: "/c5.png" 
     }
   ];
 
