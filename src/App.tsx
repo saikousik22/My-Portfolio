@@ -281,7 +281,7 @@ function App() {
                 {/* Left: Stats */}
                 <div className="space-y-6">
                   <div className="text-center p-6 bg-gradient-to-br from-blue-50 to-purple-50 rounded-2xl">
-                    <div className="text-3xl font-bold text-blue-600">₹4.4L</div>
+                    <div className="text-3xl font-bold text-blue-600">₹3.45L</div>
                     <div className="text-sm text-gray-600">Prize Money Won</div>
                   </div>
                   <div className="text-center p-6 bg-gradient-to-br from-green-50 to-blue-50 rounded-2xl">
@@ -647,7 +647,7 @@ function App() {
           {/* Total Prize Pool */}
           <div className="text-center mb-12">
             <div className="inline-block bg-gradient-to-r from-yellow-400 to-orange-500 text-white px-8 py-4 rounded-2xl shadow-lg">
-              <h3 className="text-2xl font-bold">💰 Total Prize Pool Won: ₹4,40,000</h3>
+              <h3 className="text-2xl font-bold">💰 Total Prize Pool Won: ₹3,45,000</h3>
             </div>
           </div>
           
